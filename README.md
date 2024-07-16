@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://BhukySharath.io">
-        <img src="https://wallpaperaccess.com/full/1338392.jpg" alt="MasterHead" style="height:200px; width:auto;">
+        <img src="https://wallpaperaccess.com/full/1338392.jpg" alt="MasterHead" style="height:250px; width:100%;">
     </a>
 </div>
 
