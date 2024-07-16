@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://BhukySharath.io">
-        <img src="[https://vectorified.com/images/coder-icon-9.png](https://mma.prnewswire.com/media/1155525/Coder_Logo.jpg?p=publish)" alt="MasterHead" style="height:200px; width:auto;">
+        <img src=[https://vectorified.com/images/coder-icon-9.png](https://mma.prnewswire.com/media/1155525/Coder_Logo.jpg?p=publish" alt="MasterHead" style="height:200px; width:auto;">
     </a>
 </div>
 
