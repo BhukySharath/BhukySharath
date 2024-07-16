@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhukya-sharath-89185425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhukya-sharath-89185425b/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhukya_sharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhukya_sharath" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhukyashab954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhukyashab954" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/codesharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhukyashab954" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
