@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://BhukySharath.io">
-        <img src="https://vectorified.com/images/coder-icon-9.png" alt="MasterHead" style="width:100%; max-width:600px;">
+        <img src="https://vectorified.com/images/coder-icon-9.png" alt="MasterHead" style="width:100%; max-width:600px; height:50%">
     </a>
 </div>
 
