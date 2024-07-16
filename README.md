@@ -1,12 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://BhukySharath.io)
+[![MasterHead](https://wallpapercave.com/wp/wp1904057.png)](https://BhukySharath.io)
 <h1 align="center">Hi 👋, I'm Bhukya Sharath</h1>
 <h3 align="center">A passionate full statck web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.gZCh3ODa9uVscF26bgfSfwHaFj&pid=Api&P=0&h=180">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhukysharath&label=Profile%20views&color=0e75b6&style=flat" alt="bhukysharath" /> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **Student2Engineer project**
 
-- 🌱 I’m currently learning **Machine learning,Block chain**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhukySharath](https://github.com/BhukySharath)
 
