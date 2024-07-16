@@ -1,4 +1,4 @@
-[![MasterHead]([https://wallpapercave.com/wp/wp1904057.png](https://wallpapercave.com/wp/wp11346424.jpg))](https://BhukySharath.io)
+[![MasterHead][(https://vectorified.com/images/coder-icon-9.png)](https://BhukySharath.io)
 <h1 align="center">Hi 👋, I'm Bhukya Sharath</h1>
 <h3 align="center">A passionate full statck web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.gZCh3ODa9uVscF26bgfSfwHaFj&pid=Api&P=0&h=180">
