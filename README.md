@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://BhukySharath.io">
-        <img src="https://mma.prnewswire.com/media/1155525/Coder_Logo.jpg?p=facebook" alt="MasterHead" style="height:200px; width:auto;">
+        <img src="https://cdn.wallpapersafari.com/85/99/LO0zpR.png" alt="MasterHead" style="height:200px; width:auto;">
     </a>
 </div>
 
