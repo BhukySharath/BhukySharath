@@ -1,8 +1,4 @@
-<div align="center">
-    <a href="https://BhukySharath.io">
-        <img src="https://wallpaperaccess.com/full/1338392.jpg" alt="MasterHead" style="height:250px; width:100%;">
-    </a>
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Bhukya Sharath</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
